@@ -60,13 +60,8 @@ Last updated: 6/12/22.
     - 💙 [Python Tutoring in Tofu Coding Class](https://github.com/cdenq/tofu-coding-class)
     - 🏆 [Inca Digital KYC Report](https://github.com/cdenq/inca-digital-remittance-kyc-report)
     - 📚 [Simple VBA Recipe Book](https://github.com/cdenq/simple-vba-recipe-book)
-    - 📚 [Click-to-Copy Skeleton](https://github.com/cdenq/click-to-copy-skeleton)
-    - 🌗 [Public Resume](https://github.com/cdenq/denq-resume)
     - 📚 [Multi-Client Control Interface for Video Game](https://github.com/cdenq/videogame-multi-client-control-interface)
 
-- Pending
-    - 🏆 [Social Media Branding Analysis of Top Nonprofits](https://github.com/cdenq/branding-analysis-of-top-nonprofit-phd-dissertation) 
-    - 💙 [Video Game Performance Scraper and Web Dashboard](https://github.com/cdenq/video-game-performance-scraper-and-web-dashboard)
-    - 🏆 [Hotel Booking Platform Data Consulting](https://github.com/cdenq/hotel-booking-platform-data-consulting)
-    - 📚 [Data Analysis on Self](https://github.com/cdenq/data-analysis-on-myself-p1)
-    - 📚 [Seasonality Analysis for Rental Savings](https://github.com/cdenq/seasonality-analysis-for-rental-savings)
+- Utility
+    - 🌗 [Public Resume](https://github.com/cdenq/denq-resume)
+    - 📚 [Click-to-Copy Skeleton](https://github.com/cdenq/click-to-copy-skeleton)
