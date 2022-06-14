@@ -1,5 +1,5 @@
 # my-directory
-[![Website](https://img.shields.io/badge/Return%20to-Featured%20Projects-orange?style=flat-square&logo=appveyor)](https://cdenq.github.io/)
+[![Website](https://img.shields.io/badge/Return%20to-Featured%20Projects-orange?style=flat-square&logo=appveyor)](https://github.com/cdenq)
 
 An in-depth directory link to all completed projects in this github. Last updated: 6/12/22.
 
