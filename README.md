@@ -1,7 +1,7 @@
 # my-directory
-An in-depth directory link to all available repos in this github.
+[![Website](https://img.shields.io/badge/Return%20to-Featured%20Projects-orange?style=flat-square&logo=appveyor)](https://cdenq.github.io/)
 
-Last updated: 6/12/22.
+An in-depth directory link to all completed projects in this github. Last updated: 6/12/22.
 
 ### Legend: 
     - 🏆 Competition- or Event-related Projects
