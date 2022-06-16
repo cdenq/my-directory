@@ -34,6 +34,7 @@ An in-depth directory link to all completed projects in this github. Last update
     - 💙 [Boardgame Battle Predictor and Visualizer](https://github.com/cdenq/boardgame-battle-predictor-visualizer)
 
 - Front-End: Dashboarding & Web Server Application Development
+    - 💙 [Severless Web-App: Wild Rydes](https://github.com/cdenq/wild-rydes-server-less-web-app)
     - 💙 [Personal Website Source Code](https://github.com/cdenq/cdenq.github.io)
     - 💙 [Bacteria Diversity Interactive Web Dashboard](https://github.com/cdenq/bacteria-diversity-interactive-web-dashboard)
     - 💙 [Mars Data Scraper and Dashboard](https://github.com/cdenq/mars-data-scraper-and-dashboard)
