@@ -48,12 +48,9 @@ An in-depth directory link to all completed projects in this github. Last update
     - 🏆 [Google Foobar 2022](https://github.com/cdenq/my-google-foobar-solves)
     - 💙 [ETL: Cryptocurrency Data to SQL Database](https://github.com/cdenq/etl-pipeline-on-crypto-data)
     - 💙 [Employee SQL ERD Management](https://github.com/cdenq/employee-sql-erd-management)
-    - 💻 [Select Star SQL](https://github.com/cdenq/my-select-star-sql-repo)
-    - 💻 [Foothill Repo](https://github.com/cdenq/my-foothill-college-repo)
-    - 💻 [HackerRank](https://github.com/cdenq/my-hackerrank-solves)
-    - 💻 [LeetCode](https://github.com/cdenq/my-leetcode-solves)
-    - 💻 [SQLPad.io](https://github.com/cdenq/my-sqlpad-io-solves)
     - 📚 [Financial and Election Programming](https://github.com/cdenq/financial-and-election-data-programming)
+    - 💻 [Meta Foothill College Assignment Repo](https://github.com/cdenq/my-foothill-college-repo)
+    - 💻 [Meta Coding Platform Repo](https://github.com/cdenq/my-meta-coding-repo)
 
 - Miscellaneous Domain
     - 📚 [Data Structures and Algorithms](https://github.com/cdenq/my-ds-algo-repo)
