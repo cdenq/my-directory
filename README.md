@@ -2,7 +2,7 @@
 
 A repo directory to all personal projects (divided by domain). See [archived projects](https://github.com/cdenq/my-other-directory) here.
 
-### Projects Spanning Full Pipeline
+### Selected Projects
 
 - Full-Stack
     - [Poisonous Mushroom Predictor](https://github.com/cdenq/mushroom-edibility-predictor)
@@ -17,7 +17,7 @@ A repo directory to all personal projects (divided by domain). See [archived pro
     - AWS: [Server-less Web-App](https://github.com/cdenq/wild-rydes-server-less-web-app)
     - AWS: [Shopper ETL and Analysis](https://github.com/cdenq/aws-cloud-etl-shopper-data-analysis)
 
-- Front-End / Analytics, Dashboarding, Visualization
+- Front-End / Analytics / Dashboarding / Visualization
     - HTML/CSS/JS: [Deployed](https://cdenq.github.io/) | [Personal Website Source Code](https://github.com/cdenq/cdenq.github.io)
     - HTML/CSS/JS, Plotly: [Bacteria Diversity Interactive Web Dashboard](https://github.com/cdenq/bacteria-diversity-interactive-web-dashboard)
     - HTML/CSS/JS, Leaflet: [Natural Hazards Visualization on Interactive Web Dashboard](https://github.com/cdenq/natural-hazard-visualization-interactive-web-dashboard)
