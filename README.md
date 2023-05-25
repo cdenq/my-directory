@@ -23,6 +23,7 @@ A repo directory to all personal projects (divided by domain). See [archived pro
     - HTML/CSS/JS, Leaflet: [Natural Hazards Visualization on Interactive Web Dashboard](https://github.com/cdenq/natural-hazard-visualization-interactive-web-dashboard)
     - Python, API (Google Geocode/Maps): [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
     - Python, EDA: [Tumor Growth on Mice Analysis](https://github.com/cdenq/tumor-growth-on-mice-analysis)
+    - Python, EDA: [Titanic Dataset](https://github.com/cdenq/titanic_data_eda)
 
 - Back-End / Databases
     - API: [Weather Station Server Deployment](https://github.com/cdenq/weather-station-data-api-deployment)
@@ -36,6 +37,7 @@ A repo directory to all personal projects (divided by domain). See [archived pro
 - Links
     - [/cdenq](https://github.com/cdenq/cdenq)
     - [Resume](https://github.com/cdenq/denq-resume-cv)
+    - [Repo Template](https://github.com/cdenq/my-template-repo)
 - "Life Hack" Projects
     - [Pfin Toolbox](https://github.com/cdenq/pfin-tools)
     - [Multiboxing Control Interface for WoW](https://github.com/cdenq/videogame-multi-client-control-interface)
