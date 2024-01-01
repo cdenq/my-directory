@@ -6,11 +6,6 @@
 <a href ="https://github.com/cdenq/my-other-directory"><img src="https://img.shields.io/badge/Pending-17-yellow"></a>
 <a href ="https://github.com/cdenq/my-other-directory"><img src="https://img.shields.io/badge/Private-13-red"></a>
 
-#
-
-Note: This only contains my personal projects completed outside of work roles. I'd love to talk about my more recent work experience projects in a [LinkedIn 1:1](https://www.linkedin.com/in/christopherdenq); let's connect!
-
-
 ## Selected Projects
 
 ### Full-Stack
@@ -54,7 +49,8 @@ Note: This only contains my personal projects completed outside of work roles. I
 <p align="left">
   <a href="https://www.linkedin.com/in/christopherdenq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/cdenq"><img src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-  <a href="mailto:christopherdenq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://cdenq.github.io/"><img src="https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://discordapp.com/users/122537517835616257"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </p>
+
+Last updated: 5/2023.
